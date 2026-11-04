@@ -1,0 +1,9 @@
+Package: com.audren.dcoff
+Name: dcoff
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Description: made with ❤️ by notaudren
+Maintainer: notaudren
+Author: notaudren
+Section: Tweaks
+Depends: ellekit

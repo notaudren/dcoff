@@ -1,0 +1,16 @@
+Origin: dcoff repo
+Label: dcoff
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: made with ❤️ by notaudren
+MD5Sum:
+ 4d4d87fd5adf268917522728b5a6682e 449 Packages
+ 668901456ac0674a23ac6026174d1c93 333 Packages.gz
+ b2c5cbb98cf762627b3a7bbcce05a5ad 368 Packages.bz2
+SHA256:
+ 64935ca1531e8e62b78efddc4b0e8c22bfdab6245fe6ef2c9b77e4592c98e877 449 Packages
+ 83e948d73df07ec04b1e7af0e75cea8123d651ae09b3403325a7600655a6cb96 333 Packages.gz
+ 47ac1eee80047fb959af0e2cd22a214a6f2e84afd478b213c18cb7c0e1f3dd44 368 Packages.bz2

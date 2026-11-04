@@ -1,0 +1,15 @@
+Package: com.audren.dcoff
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Name: dcoff
+Description: made with ❤️ by notaudren
+Author: notaudren
+Maintainer: notaudren
+Section: Tweaks
+Depends: ellekit
+Installed-Size: 200
+Filename: debs/com.audren.dcoff_0.1.0_iphoneos-arm64e.deb
+Size: 5970
+MD5sum: 0688e3cdabc5787376b3f1588423023a
+SHA1: 151c658bc0dea6adbd3e09b2312a6a09950fcb51
+SHA256: 64398cd9c7396da6b9384cd4ab98194aaf731b4728ea25e9778548e439cc6e90
